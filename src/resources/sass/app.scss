@@ -1,0 +1,6 @@
+@import 'bootstrap/scss/bootstrap';
+@import 'todo/index';
+
+.list-group-item.done, .list-group-item.read {
+    background-color: rgb(225, 225, 225) !important;
+}
